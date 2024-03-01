@@ -1,0 +1,73 @@
+YP_009725312.1	RefSeq	region	1	13	.	+	.	ID=YP_009725312.1:1..13;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725312.1	RefSeq	region	1	13	.	+	.	ID=id-YP_009725312.1:1..13;Note=produced by pp1a only;gbkey=Prot
+YP_009725311.1	RefSeq	region	1	298	.	+	.	ID=YP_009725311.1:1..298;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725311.1	RefSeq	region	1	298	.	+	.	ID=id-YP_009725311.1:1..298;Note=nsp16%3B 2'-o-MT%3B produced by pp1ab only;gbkey=Prot
+YP_009725310.1	RefSeq	region	1	346	.	+	.	ID=YP_009725310.1:1..346;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725310.1	RefSeq	region	1	346	.	+	.	ID=id-YP_009725310.1:1..346;Note=nsp15%3B produced by pp1ab only;gbkey=Prot
+YP_009725309.1	RefSeq	region	1	527	.	+	.	ID=YP_009725309.1:1..527;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725309.1	RefSeq	region	1	527	.	+	.	ID=id-YP_009725309.1:1..527;Note=nsp14%3B produced by pp1ab only;gbkey=Prot
+YP_009725308.1	RefSeq	region	1	601	.	+	.	ID=YP_009725308.1:1..601;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725308.1	RefSeq	region	1	601	.	+	.	ID=id-YP_009725308.1:1..601;Note=nsp13%3B zinc-binding domain (ZD)%2C NTPase/helicase domain (HEL)%2C RNA 5'-triphosphatase%3B produced by pp1ab only;gbkey=Prot
+YP_009725307.1	RefSeq	region	1	932	.	+	.	ID=YP_009725307.1:1..932;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725307.1	RefSeq	region	1	932	.	+	.	ID=id-YP_009725307.1:1..932;Note=nsp12%3B RdRp%3B produced by pp1ab only;gbkey=Prot
+YP_009725306.1	RefSeq	region	1	139	.	+	.	ID=YP_009725306.1:1..139;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725306.1	RefSeq	region	1	139	.	+	.	ID=id-YP_009725306.1:1..139;Note=formerly known as growth-factor-like protein (GFL)%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725305.1	RefSeq	region	1	113	.	+	.	ID=YP_009725305.1:1..113;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725305.1	RefSeq	region	1	113	.	+	.	ID=id-YP_009725305.1:1..113;Note=ssRNA-binding protein%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725304.1	RefSeq	region	1	198	.	+	.	ID=YP_009725304.1:1..198;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725304.1	RefSeq	region	1	198	.	+	.	ID=id-YP_009725304.1:1..198;Note=produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725303.1	RefSeq	region	1	83	.	+	.	ID=YP_009725303.1:1..83;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725303.1	RefSeq	region	1	83	.	+	.	ID=id-YP_009725303.1:1..83;Note=produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725302.1	RefSeq	region	1	290	.	+	.	ID=YP_009725302.1:1..290;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725302.1	RefSeq	region	1	290	.	+	.	ID=id-YP_009725302.1:1..290;Note=putative transmembrane domain%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725301.1	RefSeq	region	1	306	.	+	.	ID=YP_009725301.1:1..306;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725301.1	RefSeq	region	1	306	.	+	.	ID=id-YP_009725301.1:1..306;Note=nsp5%3B main proteinase (Mpro)%3B mediates cleavages downstream of nsp4. 3D structure has been determined (Yang et al.%2C 2003)%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725300.1	RefSeq	region	1	500	.	+	.	ID=YP_009725300.1:1..500;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725300.1	RefSeq	region	1	500	.	+	.	ID=id-YP_009725300.1:1..500;Note=contains transmembrane domain 2 (TM2)%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725299.1	RefSeq	region	1	1945	.	+	.	ID=YP_009725299.1:1..1945;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725299.1	RefSeq	region	1	1945	.	+	.	ID=id-YP_009725299.1:1..1945;Note=former nsp1%3B conserved domains are: N-terminal acidic (Ac)%2C predicted phosphoesterase%2C papain-like proteinase%2C Y-domain%2C transmembrane domain 1 (TM1)%2C adenosine diphosphate-ribose 1''-phosphatase (ADRP)%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725298.1	RefSeq	region	1	638	.	+	.	ID=YP_009725298.1:1..638;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725298.1	RefSeq	region	1	638	.	+	.	ID=id-YP_009725298.1:1..638;Note=produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725297.1	RefSeq	region	1	180	.	+	.	ID=YP_009725297.1:1..180;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725297.1	RefSeq	region	1	180	.	+	.	ID=id-YP_009725297.1:1..180;Note=nsp1%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009725296.1	RefSeq	region	1	43	.	+	.	ID=YP_009725296.1:1..43;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725296.1	RefSeq	region	1	43	.	+	.	ID=id-YP_009725296.1:1..43;gbkey=Prot
+YP_009725295.1	RefSeq	region	1	4405	.	+	.	ID=YP_009725295.1:1..4405;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725295.1	RefSeq	region	1	4405	.	+	.	ID=id-YP_009725295.1:1..4405;gbkey=Prot
+YP_009725295.1	RefSeq	region	4393	4405	.	+	.	ID=id-YP_009725295.1:4393..4405;Note=produced by pp1a only;gbkey=Prot
+YP_009725255.1	RefSeq	region	1	38	.	+	.	ID=YP_009725255.1:1..38;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009725255.1	RefSeq	region	1	38	.	+	.	ID=id-YP_009725255.1:1..38;gbkey=Prot
+YP_009724397.2	RefSeq	region	1	419	.	+	.	ID=YP_009724397.2:1..419;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724397.2	RefSeq	region	1	419	.	+	.	ID=id-YP_009724397.2:1..419;gbkey=Prot
+YP_009724396.1	RefSeq	region	1	121	.	+	.	ID=YP_009724396.1:1..121;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724396.1	RefSeq	region	1	121	.	+	.	ID=id-YP_009724396.1:1..121;gbkey=Prot
+YP_009724395.1	RefSeq	region	1	121	.	+	.	ID=YP_009724395.1:1..121;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724395.1	RefSeq	region	1	121	.	+	.	ID=id-YP_009724395.1:1..121;gbkey=Prot
+YP_009724394.1	RefSeq	region	1	61	.	+	.	ID=YP_009724394.1:1..61;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724394.1	RefSeq	region	1	61	.	+	.	ID=id-YP_009724394.1:1..61;gbkey=Prot
+YP_009724393.1	RefSeq	region	1	222	.	+	.	ID=YP_009724393.1:1..222;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724393.1	RefSeq	region	1	222	.	+	.	ID=id-YP_009724393.1:1..222;gbkey=Prot
+YP_009724392.1	RefSeq	region	1	75	.	+	.	ID=YP_009724392.1:1..75;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724392.1	RefSeq	region	1	75	.	+	.	ID=id-YP_009724392.1:1..75;gbkey=Prot
+YP_009724391.1	RefSeq	region	1	275	.	+	.	ID=YP_009724391.1:1..275;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724391.1	RefSeq	region	1	275	.	+	.	ID=id-YP_009724391.1:1..275;gbkey=Prot
+YP_009724390.1	RefSeq	region	1	1273	.	+	.	ID=YP_009724390.1:1..1273;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724390.1	RefSeq	region	1	1273	.	+	.	ID=id-YP_009724390.1:1..1273;gbkey=Prot
+YP_009724389.1	RefSeq	region	1	7096	.	+	.	ID=YP_009724389.1:1..7096;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724389.1	RefSeq	region	1	7096	.	+	.	ID=id-YP_009724389.1:1..7096;gbkey=Prot
+YP_009724389.1	RefSeq	region	1	180	.	+	.	ID=id-YP_009724389.1:1..180;Note=nsp1%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	181	818	.	+	.	ID=id-YP_009724389.1:181..818;Note=produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	819	2763	.	+	.	ID=id-YP_009724389.1:819..2763;Note=former nsp1%3B conserved domains are: N-terminal acidic (Ac)%2C predicted phosphoesterase%2C papain-like proteinase%2C Y-domain%2C transmembrane domain 1 (TM1)%2C adenosine diphosphate-ribose 1''-phosphatase (ADRP)%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	2764	3263	.	+	.	ID=id-YP_009724389.1:2764..3263;Note=contains transmembrane domain 2 (TM2)%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	3264	3569	.	+	.	ID=id-YP_009724389.1:3264..3569;Note=nsp5%3B main proteinase (Mpro)%3B mediates cleavages downstream of nsp4. 3D structure has been determined (Yang et al.%2C 2003)%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	3570	3859	.	+	.	ID=id-YP_009724389.1:3570..3859;Note=putative transmembrane domain%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	3860	3942	.	+	.	ID=id-YP_009724389.1:3860..3942;Note=produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	3943	4140	.	+	.	ID=id-YP_009724389.1:3943..4140;Note=produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	4141	4253	.	+	.	ID=id-YP_009724389.1:4141..4253;Note=ssRNA-binding protein%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	4254	4392	.	+	.	ID=id-YP_009724389.1:4254..4392;Note=formerly known as growth-factor-like protein (GFL)%3B produced by both pp1a and pp1ab;gbkey=Prot
+YP_009724389.1	RefSeq	region	4393	5324	.	+	.	ID=id-YP_009724389.1:4393..5324;Note=nsp12%3B RdRp%3B produced by pp1ab only;gbkey=Prot
+YP_009724389.1	RefSeq	region	5325	5925	.	+	.	ID=id-YP_009724389.1:5325..5925;Note=nsp13%3B zinc-binding domain (ZD)%2C NTPase/helicase domain (HEL)%2C RNA 5'-triphosphatase%3B produced by pp1ab only;gbkey=Prot
+YP_009724389.1	RefSeq	region	5926	6452	.	+	.	ID=id-YP_009724389.1:5926..6452;Note=nsp14%3B produced by pp1ab only;gbkey=Prot
+YP_009724389.1	RefSeq	region	6453	6798	.	+	.	ID=id-YP_009724389.1:6453..6798;Note=nsp15%3B produced by pp1ab only;gbkey=Prot
+YP_009724389.1	RefSeq	region	6799	7096	.	+	.	ID=id-YP_009724389.1:6799..7096;Note=nsp16%3B 2'-o-MT%3B produced by pp1ab only;gbkey=Prot
+
